@@ -5,6 +5,30 @@
 }
 
 
+#menu {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	right: 0;
+	top: 0;
+	margin: auto;
+	z-index: 1000;
+}
+
+ul {
+	padding-top: 10px;
+	padding-bottom: 10px;
+  padding-left:450px;
+	background: white;
+}
+li {
+	display: inline;
+	padding: 0px 10px 0px 10px;
+	color: black;
+	text-align: center;
+  margin: auto;
+}
+
 body{
     background: gray;
 
