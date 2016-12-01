@@ -4,6 +4,13 @@
 	color: white;
 }
 
+.jumbotron {
+	min-height: 500px;
+  background-image:url("https://tctechcrunch2011.files.wordpress.com/2015/04/codecode.jpg?w=738");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 
 #menu {
 	position: fixed;
