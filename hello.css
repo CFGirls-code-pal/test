@@ -1,0 +1,27 @@
+.header {
+	background-size: 100%;
+	text-align: center;
+	color: white;
+}
+
+
+body{
+    background: gray;
+
+  }
+
+.picture {
+  margin: 20px 20px 20px 30px;
+  float: center;
+  margin-left:300px ;
+
+
+}
+
+.text {
+  	text-align: center;
+    color: white;
+    border-radius: 10px;
+    font-family: Vivaldi, Cursive;
+
+}
